@@ -1,0 +1,6 @@
+Sergio,8.02
+Alfonso,9.18
+Ruben,7.83
+Beni, 7.93
+Dani,7.79
+Paco,23.34
